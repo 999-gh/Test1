@@ -1,2 +1,2 @@
 # Test1
-This is a sample private repository created for experimentation purposes.
+It is intended to practice and demonstrate basic Git and GitHub operations
